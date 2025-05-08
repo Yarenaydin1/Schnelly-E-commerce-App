@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "Schnelly",
+    "scheme": "schnelly",
     "slug": "Schnelly",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -19,10 +20,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.yaydin.Schnelly"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b1de2cc7-01a3-44c3-9711-a04e36045467"
+      }
     }
   }
 }
