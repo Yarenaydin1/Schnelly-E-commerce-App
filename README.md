@@ -35,7 +35,7 @@ To run the app on an emulator:
 5. expo run:android
 
 ## 📱 App Demo
-
+![Schnelly Demo](./assets/sch.gif)
 
 
 
