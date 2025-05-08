@@ -34,7 +34,6 @@ To run the app on an emulator:
 4. In your terminal press a or,
 5. expo run:android
 
-## 📱 App Demo
 ## 🎬 Demo
 
 <p align="center">
